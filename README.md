@@ -7,11 +7,8 @@ find more details about me in my personal website -
 
 ## About Me
 
-I work on mobile Linux, especially [Phosh](https://phosh.mobi), peer-to-peer
-software built on [Holepunch](https://github.com/holepunchto) technologies and
-AI runtime engines based on [MLC LLM](https://llm.mlc.ai) and
-[TVM](https://tvm.apache.org). My works are scattered across [Debian
-Salsa](https://salsa.debian.org/arun-mani-j), [Freedesktop
+I work on mobile Linux, especially [Phosh](https://phosh.mobi) - a phone shell stack with components in C, Rust etc.
+My works are scattered across [Debian Salsa](https://salsa.debian.org/arun-mani-j), [Freedesktop
 GitLab](https://gitlab.freedesktop.org/arun-mani-j),
 [GitLab](https://gitlab.com/Arun-Mani-J/), [GNOME
 GitLab](https://gitlab.gnome.org/arun-mani-j) etc.
@@ -28,9 +25,7 @@ A few of the frameworks I have worked with are:
 - [GStreamer](https://gstreamer.freedesktop.org/) - A library for constructing
   graphs of media-handling components for tasks from simple playback, audio/video streaming to complex audio and video processing.
 - [GTK](https://gtk.org/) - Cross-platform UI toolkit.
-- [MLC LLM](https://llm.mlc.ai) - Universal LLM Deployment Engine With ML Compilation.
 - [Nuxt](https://nuxt.com/) - The intuitive Vue framework.
-- [TVM](https://tvm.apache.org) - An end-to-end machine learning compiler framework for CPUs, GPUs and accelerators.
 
 ## Contact
 
